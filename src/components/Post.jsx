@@ -3,7 +3,7 @@ import more from "../assets/threeDots.svg";
 import eye from "../assets/eye.svg";
 import share from "../assets/share.svg";
 import date from "../assets/calender.svg";
-import location from "../assets/outLineLocation.svg";
+import location from "../assets/outlineLocation.svg";
 import company from "../assets/bag.svg";
 
 const Post = ({ postData }) => {
