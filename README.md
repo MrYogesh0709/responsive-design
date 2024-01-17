@@ -1,7 +1,7 @@
 
 # Responsive Website
 
-WebCam Fun With Vanilla JS
+React+Vite Bootstrap5 Responsive website
 
 
 ## Demo
